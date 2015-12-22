@@ -1,0 +1,17 @@
+* {font-family: Arial;}
+
+a, a:visited, a:active, a:hover {color: #555;}
+
+table {border-collapse: collapse;}
+table th, td {white-space: nowrap; border:1px solid #bbb; padding:5px 10px;}
+table th {text-align: center; background-color: #ddd;}
+
+.left {text-align: left;}
+.right {text-align: right;}
+.center {text-align: center;}
+
+.message {padding: 10px 20px;}
+.message.success {border: 1px solid #4b4; background-color: #cec;}
+.message.info {border: 1px solid #44b; background-color: #cce;}
+.message.warning {border: 1px solid #bb4; background-color: #eec;}
+.message.error {border: 1px solid #b44; background-color: #ecc;}
