@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+{% assign basehref = site.url | site.baseurl %}
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} DirtyLab</title>
+  <link rel="stylesheet" href="{{ basehref }}css/style.css" />
+</head>
+<body>
+
+  <div id="header">
+    <h1>DirtyLab</h1>
+    <p>Le laboratoire des savoirs émergents</p>
+  </div>
+
+  <div id="main">
+
+    {% include nav.html %}
+
+    <div id="content">
+
+      {% comment %}
+        Jekyll does not allows simply {% include {{page.markdown_file }} %}
+        See http://stackoverflow.com/questions/7226076/in-jekyll-is-there-a-concise-way-to-render-a-markdown-partial
+      {% endcomment %}
+
+      {% capture md_content %}{% include {{page.markdown_file}} %}{% endcapture %}
+      {{md_content | markdownify}}
+
+    </div>
+
+  </div>
+</body>
+</html>

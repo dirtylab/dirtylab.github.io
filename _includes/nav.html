@@ -1,0 +1,26 @@
+
+<div id="nav">
+
+  <h1>Navigation</h1>
+  
+  {% capture relative_page_url %}{{ page.url | replace_first:'/', '' }}{% endcapture %}
+
+  {% if site.files and site.files != empty %}
+    <ul>
+      {% for file in site.files %}
+        <li>
+
+          {% capture file_in_loop %}{{ file }}.html{% endcapture %}
+
+          {% if relative_page_url == file_in_loop %}
+            <span class="current">{{ file }}</span>
+          {% else %}
+            <a href="{{ basehref }}{{ file_in_loop }}">{{ file }}</a>
+          {% endif %}
+
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+</div>

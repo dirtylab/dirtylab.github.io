@@ -1,0 +1,37 @@
+
+baseurl: 
+url: http://dirtylab.github.io/
+
+# for GitHub Flavored Markdown support
+# requires 'gem install redcarpet'
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+
+# requires 'gem install github-pages' + 'gem install <gemname>' for all gems below
+gems: ["jemoji"]
+#- jekyll-mentions
+#- jemoji
+#- jekyll-redirect-from
+#- jekyll-sitemap
+#- jekyll-feed
+
+files:
+- CONTRIBUTEURS
+- DEFINITIONS
+- HELP
+- LICENSE
+- PRATIQUE/HEBERGEURS
+- PRATIQUE/OUTILS
+- PRATIQUE/POC
+- PRATIQUE/SPECIFICATIONS
+- PRATIQUE/SYNTHESE_YOUTUBE
+- PRATIQUE/VE/VE-Frosty-Z
+- PRATIQUE/VE/VE-Gophys
+- PRATIQUE/VISIONS
+- PRATIQUE/VP/VP-forum-propositions-Youtube
+- README
+- THEORIE/INSPIRATION
+- THEORIE/PISTES/EXEMPLE
+- THEORIE/PISTES
+
