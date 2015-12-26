@@ -18,6 +18,8 @@ table th {text-align: center; background-color: #ddd;}
 
 /* very basic layout to avoid 'heavy' nav above content */
 
+
+
 #header {
   position: fixed;
   top: 0px;
@@ -28,16 +30,17 @@ table th {text-align: center; background-color: #ddd;}
   padding: 10px;
   background: white;
   border-bottom: 1px solid #ddd;
+  background: url(../img/site/title.png) no-repeat 10px 20px;
 }
 
-#content {
-  margin: 20px;
-  margin-top: 100px;
-  margin-left: 230px;
-  padding: 20px;
-  border-left: 1px solid #ddd;
-  height: 100%;
+/* Hide the text (for SEO only) */
+#header h1, #header p {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
 }
+
+
 
 #nav {
   position:fixed;
@@ -64,6 +67,17 @@ table th {text-align: center; background-color: #ddd;}
 
 #nav li .current {
   font-weight: bold;
+}
+
+
+
+#content {
+  margin: 20px;
+  margin-top: 100px;
+  margin-left: 230px;
+  padding: 20px;
+  border-left: 1px solid #ddd;
+  height: 100%;
 }
 
 #content table th, table td {white-space: normal;}
