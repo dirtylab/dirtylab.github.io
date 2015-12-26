@@ -28,9 +28,8 @@ table th {text-align: center; background-color: #ddd;}
   height: 110px;
   overflow: hidden;
   padding: 10px;
-  background: white;
+  background: url(../img/site/title.png) no-repeat 10px 20px #fff;
   border-bottom: 1px solid #ddd;
-  background: url(../img/site/title.png) no-repeat 10px 20px;
 }
 
 /* Hide the text (for SEO only) */
