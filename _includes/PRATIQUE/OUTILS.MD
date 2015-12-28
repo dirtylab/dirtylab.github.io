@@ -15,11 +15,11 @@ I. Espace de discussion
 
 | Outil | Hébergement gratuit | Projet GitHub | Hashtags (posts) | Hashtags (sujets) | Arborescence | Vote par catégorie (posts) |
 |----------------------------------------------|:------------------:|:-------------:|:----------------:|:----------------:|:---------------------------:|:--------------------------:|
-| [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
-| [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
-| [Discourse](http://www.discourse.org)                       | [payant](https://meta.discourse.org/t/free-hosted-option/9621) | | | :white_check_mark: |  | "like" simple |
-| [GitHub](http://github.com/) ([issues](https://github.com/sveinburne/lets-play-science/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
-| [Vanilla Open Source](http://vanillaforums.org/)  | [ici ?](http://www.vanillaforfree.com/) | | | :white_check_mark: |  | :white_check_mark: |
+| [Proboards.com](https://www.proboards.com)      | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | ?| ?| ?| ?|
+| [Muut](https://muut.com)                       | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | ?| ?| ?| ?|
+| [Discourse](http://www.discourse.org)                       | [payant](https://meta.discourse.org/t/free-hosted-option/9621) | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | "like" simple |
+| [GitHub](http://github.com/) ([issues](https://github.com/sveinburne/lets-play-science/issues))                     | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | "+1" ZenHub |
+| [Vanilla Open Source](http://vanillaforums.org/)  | [ici ?](http://www.vanillaforfree.com/) | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |
 A parcourir en détail pour remplir le tableau ci dessus :
 
 * [Top 15 moteurs de forums sur Quertime.com](http://www.quertime.com/article/15-best-online-forum-platforms-software-free-and-paid/)
@@ -31,16 +31,16 @@ II. Espace questions/réponses
 
 | Outil                        |  Service en ligne        | Projet Github |
 |------------------------------|:------------------------:|:--------------------:|
-| [ASKBOT](https://askbot.com) |                          | :white_check_mark:|
-| [question2answer.org](http://www.question2answer.org) | | :white_check_mark:|
-| [OSQA](http://www.osqa.net)  |                          | :white_check_mark:|
+| [ASKBOT](https://askbot.com) |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />|
+| [question2answer.org](http://www.question2answer.org) | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />|
+| [OSQA](http://www.osqa.net)  |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />|
 
 III. Espace d'écriture collaboratif
 -----------------------------------
 
 | Outil  |  Service en ligne   | Projet GitHub | Commentaires |
 |----------------------------------------------|:--------------------:|:-------------:|:-----------|
-| GitHub | :white_check_mark:  |               | Il y a certainement plus « accessible » (plateformes type wiki ?) |
+| GitHub | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | Il y a certainement plus « accessible » (plateformes type wiki ?) |
 
 
 IV. Espace de t'chat
@@ -48,5 +48,5 @@ IV. Espace de t'chat
 
 | Outil  |  Service en ligne   | Commentaires |
 |--------|:--------------------:|:-----------|
-| Gitter | :white_check_mark: | *plateforme actuellement utilisée* |
-| [Slack](https://slack.com/) | :white_check_mark:  |               |
+| Gitter | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | *plateforme actuellement utilisée* |
+| [Slack](https://slack.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               |

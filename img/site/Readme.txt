@@ -1,0 +1,2 @@
+Répertoire spécifique "site" pour les images associées aux templates Jekyll, pour ne pas interférer avec
+ce qui vient du repo [sveinburne/letsplayscience](https://github.com/sveinburne/lets-play-science)

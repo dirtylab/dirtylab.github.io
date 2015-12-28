@@ -15,7 +15,7 @@ Ces fichiers sont écrits au format **Markdown** (language de mise en forme trè
 
 Leur rédaction est collaborative : n'importe qui avec un compte **GitHub** peut proposer, à tout moment, une modification à l'aide du mécanisme de **Pull Request** (PR) décrit en détail plus bas.
 
-Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinburne/lets-play-science/issues/1) :wink: se chargent de discuter/valider les **PR**, mais cela peut évoluer.
+Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinburne/lets-play-science/issues/1) <img class="emoji" title=":wink:" alt=":wink:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png" height="20" width="20" align="absmiddle" /> se chargent de discuter/valider les **PR**, mais cela peut évoluer.
 
 ### 1.1. Faire une PR
 

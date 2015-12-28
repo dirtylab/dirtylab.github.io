@@ -69,7 +69,7 @@ Quelques propositions plus détaillées que dans [la synthèse](../SYNTHESE_YOUT
   * Moteur de recherche de commentaires simple
   * Toute autre fonctionnalité simple à mettre en oeuvre (analyseurs syntaxiques existants...) qui peut apporter une information générale sur la masse de commentaires bruts sans être trop coûteux.
 
-* **_Noter les commentaires_** (suggéré plusieurs fois), serait beaucoup plus simple à gérer/synthétiser via un espace de discussion souverain, et fait partie du fonctionnement d'un espace Q&A (vote) :arrow_right: je proposerais d'écarter cette demande dans le cadre d'une *vision d'ensemble* (censée former un tout cohérent)
+* **_Noter les commentaires_** (suggéré plusieurs fois), serait beaucoup plus simple à gérer/synthétiser via un espace de discussion souverain, et fait partie du fonctionnement d'un espace Q&A (vote) <img class="emoji" title=":arrow_right:" alt=":arrow_right:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png" height="20" width="20" align="absmiddle" /> je proposerais d'écarter cette demande dans le cadre d'une *vision d'ensemble* (censée former un tout cohérent)
 
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
@@ -101,7 +101,7 @@ Proposition de fonctionnalités reprenant les grands principes des sites Q&A les
 * Chaque participant peut formuler une ou plusieurs propositions
 * Les propositions sont classées par "score" (nb. votes positifs + nb. votes négatifs) décroissant
 * Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. **défi** *"Peut-on envoyer l'humanité dans l'espace ?"*, une **proposition** est formulée sur l'idée de fusée, un participant peut alors créer une question associée (= **sous-défi**) : *"Quel est le meilleur système de propulsion pour une fusée ?"*), et formant ainsi une **arborescence** :
-  * défi :arrow_right: proposition :arrow_right: sous-défi :arrow_right: sous-proposition :arrow_right: sous-sous-défi :arrow_right: etc.
+  * défi <img class="emoji" title=":arrow_right:" alt=":arrow_right:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png" height="20" width="20" align="absmiddle" /> proposition <img class="emoji" title=":arrow_right:" alt=":arrow_right:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png" height="20" width="20" align="absmiddle" /> sous-défi <img class="emoji" title=":arrow_right:" alt=":arrow_right:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png" height="20" width="20" align="absmiddle" /> sous-proposition <img class="emoji" title=":arrow_right:" alt=":arrow_right:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png" height="20" width="20" align="absmiddle" /> sous-sous-défi <img class="emoji" title=":arrow_right:" alt=":arrow_right:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png" height="20" width="20" align="absmiddle" /> etc.
 
 <a name="II.2.2"></a>
 #### II.2.2. Votes
