@@ -1,6 +1,6 @@
 
 baseurl: 
-url: http://localhost:4000/
+url: http://dirtylab.github.io/
 
 # for GitHub Flavored Markdown support
 # requires 'gem install redcarpet'
