@@ -10,6 +10,7 @@
 
 | Observateurs | Domaines d'intérêt | Spécialité |
 |--------------|--------------------|------------|
+|[aurelBZH](https://github.com/aurelBZH) | traitement de données génomique | bioinformatique |
 
 ## Développeurs et graphistes
 
@@ -26,3 +27,4 @@
 | [François SAMIN](https://github.com/fsamin/) | HTML, CSS, JS | MySQL, PostgreSQL, Oracle, Mongodb, Elasticsearch, *et beaucoup d'autres* | Gimp | *beaucoup* | Java, Groovy, JS, Go  | J2EE, Nodejs, Go |
 | [Pierre THEVENET](https://github.com/Gophys) | HTML, CSS | MySQL, PostgreSQL | GIMP, Photoshop | Django | C++, Python | Python |
 | [Victor GOURON](https://github.com/hantropi) | HTML, CSS | MySQL | Photoshop, Flash, GIMP, Aseprite | - | Java, Python, PHP, (C) | PHP |
+| [Gaël FOPPOLO](https://github.com/gaelfoppolo) | HTML5, CSS3, JS | MySQL, Oracle | 🙈 | Bootstrap, etc. | Swift, PHP, Java, C, etc.  | PHP, Swift |

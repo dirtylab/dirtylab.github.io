@@ -16,8 +16,19 @@ table th {text-align: center; background-color: #ddd;}
 .message.warning {border: 1px solid #bb4; background-color: #eec;}
 .message.error {border: 1px solid #b44; background-color: #ecc;}
 
-/* very basic layout to avoid 'heavy' nav above content */
 
+/* GitHub Markdown : add specific style */
+
+.markdown-body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+}
+
+
+/* very basic layout to avoid 'heavy' nav above content */
 
 
 #header {
