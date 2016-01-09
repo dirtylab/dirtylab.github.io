@@ -91,3 +91,16 @@ table th {text-align: center; background-color: #ddd;}
 }
 
 #content table th, table td {white-space: normal;}
+
+
+/*
+fix awful behavior with anchors
+see http://stackoverflow.com/questions/4086107/html-positionfixed-page-header-and-in-page-anchors
+*/
+
+:target:before {
+  content:"";
+  display:block;
+  height:110px; /* fixed header height*/
+  margin:-110px 0 0; /* negative fixed header height */
+}
