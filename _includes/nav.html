@@ -13,9 +13,9 @@
           {% capture file_in_loop %}{{ file }}.html{% endcapture %}
 
           {% if relative_page_url == file_in_loop %}
-            <span class="current">{{ file }}</span>
+            <span class="current">{{ file | upcase }}</span>
           {% else %}
-            <a href="{{ basehref }}{{ file_in_loop }}">{{ file }}</a>
+            <a href="{{ basehref }}{{ file_in_loop }}">{{ file | upcase }}</a>
           {% endif %}
 
         </li>
