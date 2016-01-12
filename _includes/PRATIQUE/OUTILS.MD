@@ -27,11 +27,12 @@ A parcourir en détail pour remplir le tableau ci dessus :
 * [Top 9 moteurs de forums sur SaveDelete.com](http://savedelete.com/software/best-forum-software-free-and-paid/14592/)
 * [Page Wikipédia comparant de nombreux moteurs de forum](https://en.m.wikipedia.org/wiki/Comparison_of_Internet_forum_software)
 
-II. Espace questions/réponses
------------------------------
+II. Espace questions/réponses, vote, sondage
+--------------------------------------------
 
 | Outil                        |  Service en ligne        | Projet Github | Commentaires |
 |------------------------------|:------------------------:|:--------------------:|:--------------------|
+| [ZenHub](https://www.zenhub.io/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | privé | *actuellement utilisé* |
 | [ASKBOT](https://askbot.com) |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />| |
 | [question2answer.org](http://www.question2answer.org) | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />| |
 | [OSQA](http://www.osqa.net)  |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />| |
@@ -43,7 +44,8 @@ III. Espace d'écriture collaboratif
 
 | Outil  |  Service en ligne   | Projet GitHub | Commentaires |
 |----------------------------------------------|:--------------------:|:-------------:|:-----------|
-| GitHub | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | Il y a certainement plus « accessible » (plateformes type wiki ?) |
+| GitHub | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | *actuellent utilisé*. Il y a certainement plus "accessible" (plateformes type wiki ?) |
+| Wikia | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | [essai](http://fr.dirtylab.wikia.com/) |
 
 
 IV. Espace de t'chat
@@ -52,4 +54,4 @@ IV. Espace de t'chat
 | Outil  |  Service en ligne   | Commentaires |
 |--------|:--------------------:|:-----------|
 | Gitter | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  |
-| [Slack](https://slack.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | *plateforme actuellement utilisée* |
+| [Slack](https://slack.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | *actuellement utilisé* |
