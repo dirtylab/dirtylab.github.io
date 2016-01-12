@@ -30,11 +30,13 @@ A parcourir en détail pour remplir le tableau ci dessus :
 II. Espace questions/réponses
 -----------------------------
 
-| Outil                        |  Service en ligne        | Projet Github |
-|------------------------------|:------------------------:|:--------------------:|
-| [ASKBOT](https://askbot.com) |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />|
-| [question2answer.org](http://www.question2answer.org) | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />|
-| [OSQA](http://www.osqa.net)  |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />|
+| Outil                        |  Service en ligne        | Projet Github | Commentaires |
+|------------------------------|:------------------------:|:--------------------:|:--------------------|
+| [ASKBOT](https://askbot.com) |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />| |
+| [question2answer.org](http://www.question2answer.org) | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />| |
+| [OSQA](http://www.osqa.net)  |                          | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />| |
+| [Loomio](https://www.loomio.org/)  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | | Proposé par @Framartin. Possibilité de service en ligne gratuit à étudier. |
+| [LiquidFeedback](http://liquidfeedback.org/)  |    |   | Proposé par @Framartin. Utilisé par le [Parti pirate](http://www.partipirate.fr/LiquidFeedback-217). |
 
 III. Espace d'écriture collaboratif
 -----------------------------------
