@@ -67,7 +67,7 @@ Sommaire
 
 Ce corpus de définitions est là pour faciliter la communication autour du projet et se prémunir
 contre les discussions à périmètre flou et autres dialogues de sourds.  
-**Ce n'est pas un dictionnaire participant d'une solution cohérente, contrairement aux [Visions d'ensemble](PRATIQUE/VISIONS.html#i-visions-densemble-ve).**
+**Ce n'est pas un dictionnaire participant d'une solution cohérente, contrairement aux [Visions d'ensemble](PRATIQUE/VISIONS.MD#i-visions-densemble-ve).**
 
 <a name="1"></a>
 ### 1. Optique
@@ -193,7 +193,7 @@ C'est une interface graphique reposant sur une [*carte heuristique / mind map*](
 **Ex :** carte représentant un *arbre sémantique* sur un plan permettant de naviguer entre des *documents*.
 <a name="4.b"></a>
 #### b. Arbre sémantique
-*cf. [VP propositions Youtube : structure arborescente](PRATIQUE/VP/VP-forum-propositions-Youtube.html#3-une-association-sémantique-des-posts)*
+*cf. [VP propositions Youtube : structure arborescente](PRATIQUE/VP/VP-forum-propositions-Youtube.MD#3-une-association-sémantique-des-posts)*
 
 Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les posts.  
 **Remarque** sur la structure de données : Une feuille peut être dupliquée sur différents noeuds ! C'est pourquoi il est important de souligner ne s'agit pas d'un arbre au sens de structure de données, mais d'une *vue* de l'ensemble des chemins sémantiques assemblés en *graphe* orienté.  
@@ -213,7 +213,7 @@ Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les 
 
 <a name="4.c"></a>
 #### c. Hash sémantique / chemin sémantique
-*cf. [VP propositions Youtube : hashtag avec domaine de noms](PRATIQUE/VP/VP-forum-propositions-Youtube.html#3-une-association-sémantique-des-posts)* 
+*cf. [VP propositions Youtube : hashtag avec domaine de noms](PRATIQUE/VP/VP-forum-propositions-Youtube.MD#3-une-association-sémantique-des-posts)* 
 
 Suite ordonnée de mots caractérisant un *document* dont l'ordre d'importance est décroissant.  
 C'est un peu comme un hashtag, mais "augmenté" : il donne une information sur la manière dont le *document* articule certains concepts entre eux.  

@@ -1,0 +1,56 @@
+-   path : index
+    name : "Introduction"
+    hover : "Introduction à la communauté DirtyBiology"
+-   path : HELP
+    name : "Github"
+    hover : "Présentation de l'outil de collaboration GitHub"
+-   path : DEFINITIONS
+    name : "Lexique"
+    hover : "Concepts-clés ayant émergé de nos traveaux"
+-   path : PRATIQUE
+    name : "PRATIQUE"
+    folder : True
+    hover : "Rubrique dédiée à des approches concrêtes, logicielles"
+    children :
+      -   path : VISIONS
+          name : "Visions"
+          hover : "Rien d'ésotérique ; applications et fonctionnalités imaginées"
+      -   path : VE
+          name : "Visions d'ensemble"
+          hover : "Descriptions globales d'applications idéales répondant à la &#10; problématique de la collaboration en ligne"
+          folder : True
+          autoparse : True
+      -   path : VP
+          name : "Visions partielles"
+          hover : "Descriptions de fonctionnalités propres à une application idéale &#10; répondant à la problématique de la collaboration en ligne"
+          folder : True
+          autoparse : True
+      -   path : SYNTHESE_YOUTUBE
+          name : "Synthèse Youtube"
+          hover : "Synthèse des commentaires sur l'épisode 3 de LetsPlayScience"
+      -   path : OUTILS
+          name : "Outils collaboratifs"
+          hover : "Recensement des applications répondant à des problématiques &#10; de collaboration de masse"
+      -   path : POC
+          name : "Preuves de Concept"
+          hover : "Recensement de petites applications développées &#10; par nos soins pour tester certaines fonctionnalités"
+      -   path : SPECIFICATIONS
+          name : "Spécifications"
+          hover : "Les spécifications de l'application idéale"
+      -   path : HEBERGEURS
+          name : "Hébergeurs"
+          hover : "Recensement des solutions d'hébergement"
+-   path : THEORIE
+    name : "THÉORIE"
+    folder : True
+    hover : "Rubrique dédiée à des approches abstraites, transdisciplinaires"
+    children :
+      -   path : INSPIRATION
+          name : "Inspiration"
+          hover : "Références en tout genre qui alimentent notre réflexion"
+      -   path : PISTES
+          name : "Pistes"
+          hover : "Pistes de réflexions sous forme de problématiques &#10; posées par le défi de la collaboration de masse sur une question."
+          file : True
+          folder : True
+          autoparse : True
