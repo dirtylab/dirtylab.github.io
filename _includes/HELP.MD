@@ -9,7 +9,7 @@ L'ensemble du projet est accessible « en lecture » sans inscription, cependant
 
 ## 1. [Rédaction collaborative](https://github.com/sveinburne/lets-play-science)
 
-Voir le fichier [`README.MD`](https://github.com/sveinburne/lets-play-science/blob/master/README.MD) pour la liste des principaux fichiers du projet et leurs rôles.
+Voir le fichier [`README.html`](https://github.com/sveinburne/lets-play-science/blob/master/README.html) pour la liste des principaux fichiers du projet et leurs rôles.
 
 Ces fichiers sont écrits au format **Markdown** (language de mise en forme très simple,
 [qu'on peut apprendre en cinq minutes](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)) [[Editeur en ligne]](https://stackedit.io) [[Editeur de tableaux]](http://www.tablesgenerator.com/markdown_tables) [[Générateur de sommaires]](http://doctoc.herokuapp.com/)
@@ -33,7 +33,7 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 
 #### 1.1.2. Avec un fork
 
-Relativement complexe pour un non informaticien (notamment pour s'assurer que son **fork** est synchro avec le [dépôt](DEFINITIONS.MD#7.a) original. [Il existe des manières de le faire directement sur GitHub.com](http://stackoverflow.com/a/23853061/488666) mais c'est relativement lourd tout ça).
+Relativement complexe pour un non informaticien (notamment pour s'assurer que son **fork** est synchro avec le [dépôt](DEFINITIONS.html#7.a) original. [Il existe des manières de le faire directement sur GitHub.com](http://stackoverflow.com/a/23853061/488666) mais c'est relativement lourd tout ça).
 
 [Guide officiel GitHub.com (anglais)](https://guides.github.com/activities/forking/)
 

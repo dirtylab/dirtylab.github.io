@@ -5,7 +5,7 @@ Visions / propositions
 
 Ce document n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur à faire valoir.
 
-Avant ou pendant la rédaction d'une [**vision d'ensemble (VE)**](#I)  ou [**vision partielle (VP)**](#II), n'hésitez pas à parcourir les fichiers [`PISTES.MD`](../THEORIE/PISTES.MD) et [`INSPIRATION.MD`](../THEORIE/INSPIRATION.MD) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées/ problématiques évoquées dans l'[axe théorique](../THEORIE) si vous en utilisez.
+Avant ou pendant la rédaction d'une [**vision d'ensemble (VE)**](#I)  ou [**vision partielle (VP)**](#II), n'hésitez pas à parcourir les fichiers [`PISTES.html`](../THEORIE/PISTES.html) et [`INSPIRATION.html`](../THEORIE/INSPIRATION.html) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées/ problématiques évoquées dans l'[axe théorique](../THEORIE) si vous en utilisez.
 
 Sommaire
 --------
@@ -32,7 +32,7 @@ I. Visions d'ensemble (VE)
 ### 1. Critères de soumission d'une VE
 Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **PRATIQUE/VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
 - elle doit être sensiblement différente d'une VE existante
-- elle doit s'appuyer rigoureusement sur [**ce vocabulaire**](../DEFINITIONS.MD)
+- elle doit s'appuyer rigoureusement sur [**ce vocabulaire**](../DEFINITIONS.html)
 - elle doit être rédigée avec **concision** et esprit de **synthèse**
 - elle doit offrir une **perspective** à minima sur les points suivants :
   1. Application souveraine vs Application intégrée ?
@@ -44,7 +44,7 @@ Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situ�
 - elle doit expliciter un cycle de vie d'un défi
 - elle doit proposer une priorisation de ses fonctionnalités
 - elle doit offrir un titre qui explicite le parti pris de cette vision
-- le nom du fichier markdown doit être `VE-nomAuteur.MD`
+- le nom du fichier markdown doit être `VE-nomAuteur.html`
 
 Remarques importantes :
 - Une solution ne s'oppose pas nécessairement à sa concurrente, elle peut être offerte provisoirement en attendant le développement de fonctionnalités plus avancées, cf. priorités.
@@ -56,8 +56,8 @@ Remarques importantes :
 
 |N°   |Titre |Auteur |     |
 |:---:|:-----|:------|:----:|
-|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/sveinburne/lets-play-science/issues/75)|
-|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/sveinburne/lets-play-science/issues/76) + [topic complémentaire](https://github.com/sveinburne/lets-play-science/issues/48)|
+|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.html)|Frosty-Z|[discussion](https://github.com/sveinburne/lets-play-science/issues/75)|
+|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.html)|Gophys|[discussion](https://github.com/sveinburne/lets-play-science/issues/76) + [topic complémentaire](https://github.com/sveinburne/lets-play-science/issues/48)|
 |3|*sans titre* (ébauche dans une issue)|akka-vodol|[discussion](https://github.com/sveinburne/lets-play-science/issues/36)|
 
 <a name="II"></a>
@@ -74,10 +74,10 @@ Une **vision partielle** est une proposition d'une ou plusieurs fonctionnalités
 ### 1. Critères de soumission d'une VP
 Une **vision partielle** se présente sous la forme d'un fichier Markdown situé dans le répertoire **PRATIQUE/VP** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VP soit acceptée :
 - elle doit être sensiblement différente d'une VP existante
-- elle doit s'appuyer rigoureusement sur [**ce vocabulaire**](../DEFINITIONS.MD)
+- elle doit s'appuyer rigoureusement sur [**ce vocabulaire**](../DEFINITIONS.html)
 - elle doit proposer une priorisation de ses fonctionnalités
 - elle doit offrir un titre explicite
-- le nom du fichier Markdown doit être `VP-titre-nomAuteur.MD`
+- le nom du fichier Markdown doit être `VP-titre-nomAuteur.html`
 
 Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VP. Des critiques et des propositions d'amendements pourront être soumises.
 
@@ -86,4 +86,4 @@ Une fois acceptée, l'auteur de la **pull request** doit créer une issue portan
 
 |N°   |Titre |Auteur|     |
 |:---:|:-----|:-----|:----:|
-|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum-propositions-Youtube.MD)|*multiples*|[discussion](https://github.com/sveinburne/lets-play-science/issues/78)|
+|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum-propositions-Youtube.html)|*multiples*|[discussion](https://github.com/sveinburne/lets-play-science/issues/78)|

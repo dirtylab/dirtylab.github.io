@@ -3,7 +3,7 @@
 
 > ***Comment collaborer à 5000 cerveaux sur la même question ?***
 
-**Un [dépôt](DEFINITIONS.MD#7.a) GitHub** pour organiser les réflexions sur le défi lancé dans [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
+**Un [dépôt](DEFINITIONS.html#7.a) GitHub** pour organiser les réflexions sur le défi lancé dans [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
 
 ## Cette plateforme est utilisée comme...
 
@@ -15,26 +15,26 @@
 
 ## Ou trouver de l'aide ?
 
-- [Lisez avant toute chose notre tutoriel](HELP.MD).
+- [Lisez avant toute chose notre tutoriel](HELP.html).
 - N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
 - Poser une question sur le [Tchat](https://dirtylab.slack.com) après [vous être inscris](http://gaelfoppolo.com/projets/dirtylab/slack/) en cas de doute.
 
 On sera heureux de vous familiariser avec ces outils ;)
 
-## Les objectifs de ce [dépôt](DEFINITIONS.MD#7.a) ?
+## Les objectifs de ce [dépôt](DEFINITIONS.html#7.a) ?
 
-1. Faire la [synthèse des propositions de Youtube ](PRATIQUE/SYNTHESE_YOUTUBE.MD)  
-2. Faire l'[inventaire des outils existants](PRATIQUE/OUTILS.MD) répondant à nos besoins et/ou nous inspirant
-3. Rechercher et partager un maximum de [connaissances sur le sujet](THEORIE/INSPIRATION.MD), qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...
-4. Creuser des [pistes de réflexion](THEORIE/PISTES.MD) en disséquant la question initiale avec une approche transdisciplinaire, alimentées par **3**
-5. Définir un [vocabulaire](DEFINITIONS.MD) qui nous permet de communiquer sans ambiguïté  et faire émerger des concepts
+1. Faire la [synthèse des propositions de Youtube ](PRATIQUE/SYNTHESE_YOUTUBE.html)  
+2. Faire l'[inventaire des outils existants](PRATIQUE/OUTILS.html) répondant à nos besoins et/ou nous inspirant
+3. Rechercher et partager un maximum de [connaissances sur le sujet](THEORIE/INSPIRATION.html), qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...
+4. Creuser des [pistes de réflexion](THEORIE/PISTES.html) en disséquant la question initiale avec une approche transdisciplinaire, alimentées par **3**
+5. Définir un [vocabulaire](DEFINITIONS.html) qui nous permet de communiquer sans ambiguïté  et faire émerger des concepts
 6. Imaginer des solutions applicatives (applications web) inspirées des démarches précédentes - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
-  - imaginer des [solutions concrètes](PRATIQUE/VISIONS.MD) (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
-  - imaginer des [fonctionnalités](PRATIQUE/VISIONS.MD) (on les appelle **visions partielles**)  
-  - implémenter des [**PoC** (preuves de concept)](PRATIQUE/POC.MD) qui sont de petites applications mettant en oeuvre des **visions**  
+  - imaginer des [solutions concrètes](PRATIQUE/VISIONS.html) (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
+  - imaginer des [fonctionnalités](PRATIQUE/VISIONS.html) (on les appelle **visions partielles**)  
+  - implémenter des [**PoC** (preuves de concept)](PRATIQUE/POC.html) qui sont de petites applications mettant en oeuvre des **visions**  
 7. Spécifier et implémenter la plateforme open-source qui émergera de **6.** en faisant intervenir un **maximum de gens d'horizons disciplinaires différents**. On ne souhaite pas se précipiter, on préfère avancer sereinement que trébucher en courant.
-  - Rédiger les [spécifications](PRATIQUE/SPECIFICATIONS.MD)
-  - Lister les [intéressés](CONTRIBUTEURS.MD) et leurs domaines de prédilection  
+  - Rédiger les [spécifications](PRATIQUE/SPECIFICATIONS.html)
+  - Lister les [intéressés](CONTRIBUTEURS.html) et leurs domaines de prédilection  
   - Choisir les technologies
   - ...etc
 8. Itérer de manière ininterrompue de **2.** à **6.**
@@ -47,7 +47,7 @@ On est des fous et on fait l'application en Open Source!
 #### 1. Participer à la réflexion sur l'application, pas besoin d'être dev'
 *Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
 
-- Consultez les documents dédiés : [VISIONS.MD](PRATIQUE/VISIONS.MD) et [INSPIRATION.MD](THEORIE/INSPIRATION.MD)
+- Consultez les documents dédiés : [VISIONS.html](PRATIQUE/VISIONS.html) et [INSPIRATION.html](THEORIE/INSPIRATION.html)
 - Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
 - Consulter les issues taguées avec
   - [`label:vision d'ensemble`,](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3A%22vision+d%27ensemble%22+)
@@ -66,7 +66,7 @@ Vous devez [créer un compte git-hub](https://github.com/join) et [vous signaler
 
 #### 3. Se signaler intéressé pour le developpement / intégration web
 
-Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github et de faire une PR dans [CONTRIBUTEURS.MD](CONTRIBUTEURS.MD))
+Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github et de faire une PR dans [CONTRIBUTEURS.html](CONTRIBUTEURS.html))
 
 - [Jules Randolph](https://github.com/sveinburne/)
 - [Julien Monnet](https://github.com/Roxtarmy)
