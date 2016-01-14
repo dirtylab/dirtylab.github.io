@@ -8,8 +8,8 @@
 {% if include.resource.folder %}
     <li class="{{liClass}} section">
         {% if include.resource.file %}
-            <a href="{{buildPath}}.html"  >
-                <span class=" hint--bounce hint--right" data-hint="{{include.resource.hover}}">{{ include.resource.name }}</span>
+            <a href="{{buildPath}}.html" class=" hint--bounce hint--right" data-hint="{{include.resource.hover}}">
+                <span>{{ include.resource.name }}</span>
             </a>
         {% else %}
             <span class=" hint--bounce hint--right" data-hint="{{include.resource.hover}}">{{ include.resource.name }}</span>
@@ -22,7 +22,7 @@
             {% if filePath contains buildPath %}
             <li>
                 <a href="{{filePath}}.html">
-                    <em>{{ filePath | replace: buildPath, '' }}</em>
+                    <span>{{ filePath | replace: buildPath, '' }}</span>
                 </a>
             </li>
             {% endif %}
@@ -40,7 +40,7 @@
 {% else %}
     <li class="{{liClass}}">
         <a href="{{buildPath}}.html" class="hint--bounce hint--right" data-hint="{{include.resource.hover}}">
-            <em>{{ include.resource.name }}</em>
+            <span>{{ include.resource.name }}</span>
         </a>
     </li>
 {% endif %}

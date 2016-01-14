@@ -140,6 +140,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jemoji
+  sass
   wdm
 
 BUNDLED WITH

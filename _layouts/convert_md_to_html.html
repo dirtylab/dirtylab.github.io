@@ -2,46 +2,26 @@
 <html>
 <head>
   <meta charset=utf-8 />
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
   <title> {% if page.title %} {{ page.title }} | {% endif %} DirtyLab</title>
-  <link rel="stylesheet" href="/css/github-markdown.css" />
-  <link rel="stylesheet" href="/css/style.css" />
-  <link rel="stylesheet" href="/css/hint.css" />
+  <link rel="stylesheet" href="/css/main.css" />
 </head>
 <body>
 
   <div id="header">
-    <img src="/img/site/title.png">
-    <ul id="header_icons">
+    <a href="/" id="logo">
+      <img src="/img/site/title.png">
+    </a>
+    <ul id="social">
+      {% for media in site.data.social %}
       <li>
-        <a href="https://github.com/sveinburne/lets-play-science" class=" hint--bounce hint--bottom"
-           data-hint="Participez à la collaboration &#10; sur GitHub!">
-          <img src="/img/site/icons/github.svg" alt="GitHub" />
+        <a href="{{media.url}}" class=" hint--bounce hint--{{media.direction}}"
+           data-hint="{{media.hover}}">
+          <img src="/img/site/social/{{media.svg}}" alt="{{media.alt}}" />
         </a>
       </li>
-      <li>
-        <a href="https://dirtylab.slack.com" class=" hint--bounce hint--bottom"
-           data-hint="Discutez en temps réel sur la &#10; messagerie instantannée &#10;révolutionnaire Slack!">
-          <img src="/img/site/icons/slack.svg" alt="Slack"  />
-        </a>
-      </li>
-      <li>
-        <a href="https://www.reddit.com/r/dirtylab" class=" hint--bounce hint--left"
-           data-hint="Discutez avec la communauté sur &#10; le forum Reddit!">
-          <img src="/img/site/icons/reddit.svg" alt="Reddit"  />
-        </a>
-      </li>
-      <li>
-        <a href="https://twitter.com/drtylab" class=" hint--bounce hint--left"
-           data-hint="Informez-vous des nouvelles &#10; de la communauté sur twitter!">
-          <img src="/img/site/icons/twitter.svg" alt="Twitter"  />
-        </a>
-      </li>
-      <li>
-        <a href="https://www.facebook.com/DrtyLab/" class=" hint--bounce hint--left"
-           data-hint="Informez-vous des nouvelles &#10; de la communauté sur facebook!">
-          <img src="/img/site/icons/facebook.svg" alt="Facebook"  />
-        </a>
-      </li>
+      {% endfor %}
+
     </ul>
   </div>
 

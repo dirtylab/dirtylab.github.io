@@ -8,6 +8,10 @@ markdown: redcarpet
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 
+sass:
+    sass_dir: _sass
+    style: compressed
+
 # requires 'gem install github-pages' + 'gem install <gemname>' for all gems below
 gems: ["jemoji"]
 #- jekyll-mentions
@@ -15,3 +19,4 @@ gems: ["jemoji"]
 #- jekyll-redirect-from
 #- jekyll-sitemap
 #- jekyll-feed
+#- sass

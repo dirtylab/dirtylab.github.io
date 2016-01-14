@@ -1,0 +1,76 @@
+%table-style {
+  white-space: nowrap;
+  border: 1px solid $light_gray;
+  padding: 5px 10px;
+}
+
+body {
+  font-family: $default_font;
+}
+
+a {
+  color: $ahref_color;
+  &:visited {
+    color: $ahref_color;
+    text-decoration: none;
+  }
+  &:active {
+    color: $ahref_color;
+  }
+  &:hover {
+    color: $ahref_color;
+  }
+  &:link {
+    color: $ahref_link_color;
+    text-decoration: none;
+  }
+}
+table {
+  border-collapse: collapse;
+  th {
+    @extend %table-style;
+    text-align: center;
+    background-color: $delight-border;
+  }
+  td {
+    white-space: normal;
+  }
+}
+td {
+  @extend %table-style;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.message {
+  padding: 10px 20px;
+  &.success {
+    border: 1px solid $success_color;
+    background-color: $success_background;
+  }
+  &.info {
+    border: 1px solid $info_color;
+    background-color: $info_background;
+  }
+  &.warning {
+    border: 1px solid $warning_color;
+    background-color: $warning_background;
+  }
+  &.error {
+    border: 1px solid $error_color;
+    background-color: $error_background;
+  }
+}
+
+:target:before {
+  content: "";
+  display: block;
+  height: 110px;
+  margin: -110px 0 0;
+}
