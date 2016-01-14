@@ -67,10 +67,3 @@ td {
     background-color: $error_background;
   }
 }
-
-:target:before {
-  content: "";
-  display: block;
-  height: 110px;
-  margin: -110px 0 0;
-}
