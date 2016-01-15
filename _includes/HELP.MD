@@ -4,12 +4,13 @@ Afin de permettre à un maximum de personnes (y compris les non informaticiens) 
 voici un petit topo sur l'utilisation de l'*espace de discussion* et *d'écriture collaborative* qu'offre **GitHub**.
 
 L'ensemble du projet est accessible « en lecture » sans inscription, cependant si vous souhaitez participer (proposer des modifications, etc.), il vous faudra
+
 - [**créer un compte GitHub**](https://github.com/join)
 - préférablement, [installer ZenHub en un clic](https://www.zenhub.io/) dans votre navigateur pour pouvoir donner des +1 aux posts et/ou commentaires que vous estimez pertinents. Le détail des fonctionnalités [ici](https://github.com/sveinburne/lets-play-science/issues/62). 
 
 ## 1. [Rédaction collaborative](https://github.com/sveinburne/lets-play-science)
 
-Voir le fichier [`README.html`](https://github.com/sveinburne/lets-play-science/blob/master/README.html) pour la liste des principaux fichiers du projet et leurs rôles.
+Voir le fichier [`README.html`](README.html) pour la liste des principaux fichiers du projet et leurs rôles.
 
 Ces fichiers sont écrits au format **Markdown** (language de mise en forme très simple,
 [qu'on peut apprendre en cinq minutes](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)) [[Editeur en ligne]](https://stackedit.io) [[Editeur de tableaux]](http://www.tablesgenerator.com/markdown_tables) [[Générateur de sommaires]](http://doctoc.herokuapp.com/)
@@ -22,7 +23,7 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 
 #### 1.1.1. En éditant directement le fichier qu'on veut modifier
 
-- Sélectionnez le fichier à modifier (par ex. [README.md](README.md))
+- Sélectionnez le fichier à modifier (par ex. [README.html](README.html))
 - Appuyez sur [![le symbole en forme de stylo *edit*](img/edit.png)](#)
 - Faites vos modifications
 - En bas de la page, section **Propose file change** :
@@ -61,6 +62,7 @@ permettent une classification, aidant à retrouver plus facilement certains thè
 
 Le **moteur de recherche** des **topics/issues** permet l'utilisation de filtres.
 Voici des filtres utiles :
+
  - [`is:issue`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aissue+) (toutes les *issues*, c'est à dire "posts")
  - [`is:pr`](https://github.com/sveinburne/lets-play-science/pulls?q=is%3Apr) (toutes les pull request, PR)
  - [**`sort:updated-desc `**](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=sort%3Aupdated-desc+) (trier par **modifié le plus récemment d'abord**)
@@ -78,6 +80,7 @@ Vous pouvez aussi utiliser l'interface graphique, boutons `Filters`, `Labels`, `
 La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), est utilisée. [Les inscriptions se font ici.](http://gaelfoppolo.com/projets/dirtylab/slack/).
 
 **Avantages :**
+
 * L'historique des interventions est conservé, donc on peut laisser un commentaire même s'il n'y a personne d'autre à ce moment là.
 * La liste des derniers "événements" qui ont eu lieu sur le **[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**
 s'affiche automatiquement dans le canal [#github](https://dirtylab.slack.com/messages/github/).
