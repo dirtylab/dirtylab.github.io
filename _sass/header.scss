@@ -15,8 +15,13 @@
   background-color: $dashboard_background;
   > a#logo {
     order:1;
+    background-color: white;
+    > img {
+      background-color: $body_background_color;
+      box-sizing: border-box;
+      border:1px solid $delight-border;
+    }
   }
-
   img {
     max-height: $top-height;
     padding: 5px;
@@ -29,6 +34,7 @@
     text-align: right;
     margin:auto;
     height: 100%;
+
     li {
       display: inline-block;
       list-style-type: none;

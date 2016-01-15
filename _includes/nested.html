@@ -16,22 +16,23 @@
         {% endif %}
         <ul>
             {% if include.resource.autoparse %}
-            {% for file in site.files %}
-            {% capture buildPath %}{{include.pathprefix}}/{{include.resource.path}}/{% endcapture %}
-            {% capture filePath %}/{{file}}{% endcapture %}
-            {% if filePath contains buildPath %}
-            <li>
-                <a href="{{filePath}}.html">
-                    <span>{{ filePath | replace: buildPath, '' }}</span>
-                </a>
-            </li>
-            {% endif %}
-            {% endfor %}
+                {% assign sortedPages=site.pages | sort: 'url' %}
+                {% for page in  sortedPages %}
+                    {% capture buildPath %}{{include.pathprefix}}/{{include.resource.path}}/{% endcapture %}
+                    {% capture filePath %}{{page.url}}{% endcapture %}
+                    {% if filePath contains buildPath %}
+                        <li>
+                            <a href="{{filePath}}"  >
+                                <span>{{ filePath | replace: buildPath, '' | replace: ".html", '' }}</span>
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
             {% else %}
-            {% for child in include.resource.children %}
-            {% capture buildPath %}{{include.pathprefix}}/{{include.resource.path}}{% endcapture %}
-            {% include nested.html resource=child pathprefix=buildPath  %}
-            {% endfor %}
+                {% for child in include.resource.children %}
+                    {% capture buildPath %}{{include.pathprefix}}/{{include.resource.path}}{% endcapture %}
+                    {% include nested.html resource=child pathprefix=buildPath  %}
+                {% endfor %}
             {% endif %}
 
         </ul>
