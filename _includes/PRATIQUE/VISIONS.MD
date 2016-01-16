@@ -5,7 +5,7 @@ Visions / propositions
 
 Ce document n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur à faire valoir.
 
-Avant ou pendant la rédaction d'une [**vision d'ensemble (VE)**](#I)  ou [**vision partielle (VP)**](#II), n'hésitez pas à parcourir les fichiers [`PISTES.html`](../THEORIE/PISTES.html) et [`INSPIRATION.html`](../THEORIE/INSPIRATION.html) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées/ problématiques évoquées dans l'[axe théorique](../THEORIE) si vous en utilisez.
+Avant ou pendant la rédaction d'une [**vision d'ensemble (VE)**](#I)  ou [**vision partielle (VP)**](#II), n'hésitez pas à parcourir les fichiers [`PISTES.MD`](../THEORIE/PISTES.html) et [`INSPIRATION.MD`](../THEORIE/INSPIRATION.html) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées/ problématiques évoquées dans l'[axe théorique](../THEORIE) si vous en utilisez.
 
 Sommaire
 --------
@@ -46,7 +46,7 @@ Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situ�
 - elle doit expliciter un cycle de vie d'un défi
 - elle doit proposer une priorisation de ses fonctionnalités
 - elle doit offrir un titre qui explicite le parti pris de cette vision
-- le nom du fichier markdown doit être `VE-nomAuteur.html`
+- le nom du fichier markdown doit être `VE-nomAuteur.MD`
 
 Remarques importantes :
 
@@ -80,7 +80,7 @@ Une **vision partielle** se présente sous la forme d'un fichier Markdown situé
 - elle doit s'appuyer rigoureusement sur [**ce vocabulaire**](../DEFINITIONS.html)
 - elle doit proposer une priorisation de ses fonctionnalités
 - elle doit offrir un titre explicite
-- le nom du fichier Markdown doit être `VP-titre-nomAuteur.html`
+- le nom du fichier Markdown doit être `VP-titre-nomAuteur.MD`
 
 Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VP. Des critiques et des propositions d'amendements pourront être soumises.
 

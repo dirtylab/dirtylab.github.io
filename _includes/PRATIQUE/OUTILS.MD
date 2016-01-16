@@ -46,7 +46,9 @@ III. Espace d'écriture collaboratif
 | Outil  |  Service en ligne   | Projet GitHub | Commentaires |
 |----------------------------------------------|:--------------------:|:-------------:|:-----------|
 | GitHub | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | *actuellent utilisé*. Il y a certainement plus "accessible" (plateformes type wiki ?) |
-| Wikia | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | [essai](http://fr.dirtylab.wikia.com/) |
+| GitHub + [prose.io](http://prose.io) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />    | Outil beaucoup plus user friendly que github seul! Proche d'un wiki basé sur git |
+| [Wikia](http://www.wikia.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | [essai](http://fr.dirtylab.wikia.com/) |
+| [Rizzoma](https://rizzoma.com) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | Proposé par @Framartin. |
 
 
 IV. Espace de t'chat

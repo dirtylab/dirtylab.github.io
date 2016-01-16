@@ -47,7 +47,7 @@ On est des fous et on fait l'application en Open Source!
 #### 1. Participer à la réflexion sur l'application, pas besoin d'être dev'
 *Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
 
-- Consultez les documents dédiés : [VISIONS.html](PRATIQUE/VISIONS.html) et [INSPIRATION.html](THEORIE/INSPIRATION.html)
+- Consultez les documents dédiés : [VISIONS.MD](PRATIQUE/VISIONS.html) et [INSPIRATION.MD](THEORIE/INSPIRATION.html)
 - Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
 - Consulter les issues taguées avec
   - [`label:vision d'ensemble`,](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3A%22vision+d%27ensemble%22+)
@@ -66,7 +66,7 @@ Vous devez [créer un compte git-hub](https://github.com/join) et [vous signaler
 
 #### 3. Se signaler intéressé pour le developpement / intégration web
 
-Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github et de faire une PR dans [CONTRIBUTEURS.html](CONTRIBUTEURS.html))
+Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github et de faire une PR dans [CONTRIBUTEURS.MD](CONTRIBUTEURS.html))
 
 - [Jules Randolph](https://github.com/sveinburne/)
 - [Julien Monnet](https://github.com/Roxtarmy)
