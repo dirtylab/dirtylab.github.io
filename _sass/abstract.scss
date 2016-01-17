@@ -1,0 +1,76 @@
+
+
+@mixin prery-nav-list($right) {
+  margin-left: 5px;
+  padding-left: 0;
+  li {
+    font-size: 10pt;
+    list-style-type: none;
+    margin: 5px 0;
+    padding-left: 0;
+    &.section {
+      > span,a {
+        font-size: 14px;
+        color: $nav_color;
+        text-transform: uppercase;
+      }
+      > ul, ol {
+        li.section {
+          > span {
+            font-size: 13px;
+          }
+          > a {
+            font-size: 13px;
+          }
+        }
+      }
+    }
+    &.current {
+      font-weight: bold;
+      > a {
+        color: $nav_selected_color;
+      }
+    }
+    > ul, ol {
+      @if $right == true {
+        padding-left:0;
+        border-left:0;
+        padding-right: 10px;
+        border-right: $nav_big_sections_border;
+      } @else {
+        padding-right: 0;
+        border-right: 0;
+        padding-left: 10px;
+        border-left: $nav_big_sections_border;
+      }
+
+      > li > ul, ol {
+        @if $right == true {
+          padding-left:0;
+          border-left:0;
+          border-right: $nav_small_sections_border;
+          padding-right: 14px;
+        } @else {
+          padding-right: 0;
+          border-right: 0;
+          padding-left: 14px;
+          border-left: $nav_small_sections_border;
+        }
+      }
+    }
+  }
+
+  > li {
+    font-size: 15px;
+  }
+  a {
+    color: $ahref_link_color;
+    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+      > span {
+        outline: lighten($nav_color,40) solid 1px;
+      }
+    }
+  }
+}

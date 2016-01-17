@@ -29,7 +29,52 @@ article {
         color:$content_ahref_color;
       }
     }
+    &.markdown-body > h2#sommaire {
+      @media (min-width: 1400px) {
+        display: none;
+      }
+      &+ul, &+ol {
+        @include prery-nav-list(false);
+        font-family: sans-serif;
+        @media (min-width: 1400px) {
+          @include prery-nav-list(true);
+          &:before {
+            content: "SOMMAIRE";
+            font-size: 26px;
+          }
+          display: flex;
+          justify-content: flex-start;
+          flex-direction: column;
+          > li {
+            flex-grow: 1;
 
+          }
+          position:fixed;
+          text-align: right;
+          font-weight: 200;
+          background-color: $content_background;
+          right: 5px;
+          padding: $top-height 10px 0  ;
+          bottom:0;
+          height: 100vh ;
+          max-width: 200px;
+          overflow-y:auto ;
+          margin-bottom: 0;
+          a {
+            &:hover {
+              background-color: $dashboard_background;
+            }
+            width: auto;
+            height: auto;
+            display: block;
+          }
+        }
+        @media (min-width: 1600px) {
+          max-width: 300px;
+          padding-right: 40px;
+        }
+      }
+    }
     height: 100%;
     overflow: hidden;
     background-color: $content_background;

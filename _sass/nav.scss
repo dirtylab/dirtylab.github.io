@@ -1,9 +1,7 @@
-%nav-section {
-  font-size: 14px;
-  color: $nav_color;
-  text-transform: uppercase;
-}
 #nav {
+  > ul, ol {
+    @include prery-nav-list(false);
+  }
   position: fixed;
   top: 0;
   padding-top: $top-height;
@@ -17,60 +15,5 @@
   @media (max-width:799px) {
     display: none;
   }
-  * {
-    max-width: inherit;
-  }
-  > ul {
-    margin-left: 5px;
-    padding-left: 0;
-    > li {
-      font-size: 15px;
-    }
-  }
-  a {
-    color: $ahref_link_color;
-    text-decoration: none;
-    &:hover {
-      text-decoration: none;
-      > span {
-        outline: lighten($nav_color,40) solid 1px;
-      }
-    }
-  }
-  li {
-    font-size: 10pt;
-    list-style-type: none;
-    margin: 5px 0;
-    padding-left: 0;
-    &.section {
-      > span {
-        @extend %nav-section;
-      }
-      > a {
-        @extend %nav-section;
-      }
-      > ul li.section {
-        > span {
-          font-size: 13px;
-        }
-        > a {
-          font-size: 13px;
-        }
-      }
-    }
-    &.current {
-      font-weight: bold;
-      > a {
-        color: $nav_selected_color;
-      }
-    }
-  }
-  ul > li > ul {
-    padding-left: 10px;
-    border-left: $nav_big_sections_border;
-    > li > ul {
-      padding-left: 14px;
-      border-left: $nav_small_sections_border;
-    }
-  }
+
 }

@@ -34,11 +34,14 @@
     text-align: right;
     margin:auto;
     height: 100%;
-
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 500px;
     li {
       display: inline-block;
       list-style-type: none;
-      height: 100%;
+      max-height: 100%;
       a {
         margin:auto;
       }
@@ -49,24 +52,10 @@
           max-height: 50px;
         }
         @media (max-width:570px) {
-          max-height: 40px;
-        }
-        @media (max-width:514px) {
-          display: none;
+          max-height: 38px;
         }
       }
     }
-    @media (min-width: 1100px) {
-      top:$top-height;
-      position: fixed;
-      right: 5px;
-      height: auto;
-      li {
-        display:  flex;
-        img {
-          height: 50px;
-        }
-      }
-    }
+
   }
 }
