@@ -9,6 +9,8 @@
   left: 0;
   max-width: $nav-width;
   height: 100%;
+  overflow-y:auto ;
+  overflow-x:hidden ;
   background-color: $dashboard_background;
   border-right: $delight-border solid 2px;
   box-sizing: border-box;
