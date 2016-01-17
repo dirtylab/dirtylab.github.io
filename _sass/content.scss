@@ -45,10 +45,6 @@ article {
           display: flex;
           justify-content: flex-start;
           flex-direction: column;
-          > li {
-            flex-grow: 1;
-
-          }
           position:fixed;
           text-align: right;
           font-weight: 200;
