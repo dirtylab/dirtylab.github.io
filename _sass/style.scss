@@ -10,6 +10,7 @@ body {
 
 }
 
+
 a {
   color: $ahref_color;
   &:visited {
@@ -27,6 +28,7 @@ a {
     text-decoration: none;
   }
 }
+
 table {
   border-collapse: collapse;
   th {
