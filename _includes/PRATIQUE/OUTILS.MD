@@ -5,9 +5,10 @@ Comparatif des outils existants
 
 **Forum**
 
-- [**méta-topic**](https://github.com/sveinburne/lets-play-science/issues/42)
-- [**labels**](https://github.com/sveinburne/lets-play-science/issues/39) :
-    - [`label:outils`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Aoutils+)
+- [**méta-topic**](https://github.com/dirtylab/wiki/issues/11)
+- [**labels**](https://github.com/dirtylab/wiki/issues/14) :
+    - [`label:outils`](https://github.com/dirtylab/wiki/issues?utf8=%E2%9C%93&q=label%3Aoutils+)
+
 
 **Attention : uniquement des outils ou services en ligne gratuits.**
 
@@ -19,7 +20,7 @@ I. Espace de discussion
 | [Proboards.com](https://www.proboards.com)      | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | ?| ?| ?| ?|
 | [Muut](https://muut.com)                       | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | ?| ?| ?| ?|
 | [Discourse](http://www.discourse.org)                       | [payant](https://meta.discourse.org/t/free-hosted-option/9621) | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | "like" simple |
-| [GitHub](http://github.com/) ([issues](https://github.com/sveinburne/lets-play-science/issues))                     | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | "+1" ZenHub |
+| [GitHub](http://github.com/) ([issues](https://github.com/dirtylab/wiki/issues))                     | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | "+1" ZenHub |
 | [Vanilla Open Source](http://vanillaforums.org/)  | | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |
 | [Reddit](http://reddit.com/)  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | |  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  |
 A parcourir en détail pour remplir le tableau ci dessus :
@@ -56,5 +57,5 @@ IV. Espace de t'chat
 
 | Outil  |  Service en ligne   | Commentaires |
 |--------|:--------------------:|:-----------|
-| Gitter | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  |
-| [Slack](https://slack.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | *actuellement utilisé* |
+| Gitter | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | [*Anciennement utilisé*]() |
+| [Slack](https://slack.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | [*actuellement utilisé*](https://dirtylab.slack.com) |
