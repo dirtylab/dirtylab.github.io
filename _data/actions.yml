@@ -1,0 +1,9 @@
+- url: "https://github.com/dirtylab/wiki/blob/master"
+  hover: "Voir le document sur github."
+  img: "/img/site/social/github.svg"
+  direction: "top"
+
+- url: "http://prose.io/#dirtylab/wiki/edit/master"
+  hover: "Proposer des modifications via prose!&#10;Vous devrez être authentifié sur github&#10; pour soumettre les changements."
+  img: "/img/site/edit.svg"
+  direction: "right"
