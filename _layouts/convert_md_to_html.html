@@ -29,12 +29,15 @@
     </a>
     <ul id="social">
       {% for media in site.data.social %}
-      <li>
-        <a href="{{media.url}}" class=" hint--bounce hint--{{media.direction}}"
+      <li class="">
+        <a href="{{media.url}}"
+           class=" hint--bounce hint--{{media.direction}} button"
+           target="_blank"
            data-hint="{{media.hover}}">
           <img src="/img/site/social/{{media.svg}}" alt="{{media.alt}}" />
         </a>
       </li>
+
       {% endfor %}
 
     </ul>
@@ -43,7 +46,6 @@
   <main id="main">
 
     {% include nav.html %}
-
     <article>
       <div id="content" class="markdown-body">
 

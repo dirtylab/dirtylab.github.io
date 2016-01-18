@@ -1,0 +1,4 @@
+url: "http://prose.io/#dirtylab/wiki/edit/master"
+hover: "Proposer des modifications via prose!&#10;Vous devrez être authentifié sur github&#10; pour soumettre les changements."
+exclude:
+  - "/index.html"

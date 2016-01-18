@@ -1,0 +1,20 @@
+.button {
+  background-color: #cfcbe9;
+  border: none;
+  &.success {
+    background-color: #81e781;
+  }
+  &+.button {
+    border-left:1px solid rgba(138, 138, 138, 0.47);
+  }
+  &:hover {
+    background-color: #7a7a7a;
+    cursor: hand;
+  }
+  padding: 10px;
+  > img {
+    width: 35px;
+    height: auto;
+  }
+
+}

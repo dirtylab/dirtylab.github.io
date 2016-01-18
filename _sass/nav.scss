@@ -2,6 +2,8 @@
   > ul, > ol {
     @include prery-nav-list(false);
     font-weight: 200;
+    overflow-y:auto ;
+    overflow-x:hidden ;
   }
   position: fixed;
   top: 0;
@@ -9,8 +11,9 @@
   left: 0;
   max-width: $nav-width;
   height: 100%;
-  overflow-y:auto ;
-  overflow-x:hidden ;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   background-color: $dashboard_background;
   border-right: $delight-border solid 2px;
   box-sizing: border-box;
