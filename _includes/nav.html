@@ -10,7 +10,8 @@
   <div id="interact-bar">
     {% for action in site.data.actions %}
     {% assign resource=page.url | replace: '.html', '.MD' %}
-    {% if site.data.exceptions | map:"url" contains page.url %}
+    {% assign exceptions=site.data.exceptions | map:"url" %}
+    {% if  exceptions contains page.url %}
       {% capture resource %}
         {% for exc in site.data.exceptions %}
         {% if exc.url == page.url %}
