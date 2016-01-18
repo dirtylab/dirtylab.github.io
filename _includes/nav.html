@@ -2,13 +2,11 @@
 <nav id="nav">
 
   {% capture relative_page_url %}{{ page.url | replace_first:'/', '' }}{% endcapture %}
-  <div id="nav-wrapper">
     <ul>
       {% for res in site.data.structure %}
       {% include nested.html resource=res pathprefix="" %}
       {% endfor %}
     </ul>
-  </div>
   <div id="interact-bar">
     {% for action in site.data.actions %}
     {% assign resource=page.url | replace: '.html', '.MD' %}
