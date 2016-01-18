@@ -29,6 +29,8 @@ article {
         color:$content_ahref_color;
       }
     }
+    // Hack to display "sommaire" on the right
+    // works for screens > 1400px
     &.markdown-body > h2#sommaire {
       @media (min-width: 1400px) {
         display: none;

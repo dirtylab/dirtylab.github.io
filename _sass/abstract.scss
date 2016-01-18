@@ -9,12 +9,12 @@
     margin: 5px 0;
     padding-left: 0;
     &.section {
-      > span,a {
+      > span, > a {
         font-size: 14px;
         color: $nav_color;
         text-transform: uppercase;
       }
-      > ul, ol {
+      > ul, > ol {
         li.section {
           > span {
             font-size: 13px;
@@ -31,7 +31,7 @@
         color: $nav_selected_color;
       }
     }
-    > ul, ol {
+    > ul, > ol {
       @if $right == true {
         padding-left:0;
         border-left:0;
@@ -44,7 +44,7 @@
         border-left: $nav_big_sections_border;
       }
 
-      > li > ul, ol {
+      > li > ul, > li > ol {
         @if $right == true {
           padding-left:0;
           border-left:0;

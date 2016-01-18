@@ -1,11 +1,11 @@
 #nav {
-  > ul, ol {
+  > ul, > ol {
     @include prery-nav-list(false);
+    font-weight: 200;
   }
   position: fixed;
   top: 0;
   padding-top: $top-height;
-  font-weight: 200;
   left: 0;
   max-width: $nav-width;
   height: 100%;
