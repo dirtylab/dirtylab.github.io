@@ -5,23 +5,25 @@
         current
     {% endif %}
 {% endcapture %}
+
 {% if include.resource.folder %}
     <li class="{{liClass}} section">
         {% if include.resource.file %}
-            <a href="{{buildPath}}.html" class=" hint--bounce hint--right" data-hint="{{include.resource.hover}}">
+            <a href="{{buildPath}}.html" class="" data-hint-bck="{{include.resource.hover}}">
                 <span>{{ include.resource.name }}</span>
             </a>
         {% else %}
-            <span class=" hint--bounce hint--right" data-hint="{{include.resource.hover}}">{{ include.resource.name }}</span>
+            <span class=" " data-hint-bck="{{include.resource.hover}}">{{ include.resource.name }}</span>
         {% endif %}
         <ul>
             {% if include.resource.autoparse %}
                 {% assign sortedPages=site.pages | sort: 'url' %}
-                {% for page in  sortedPages %}
+                {% for pg in  sortedPages %}
                     {% capture buildPath %}{{include.pathprefix}}/{{include.resource.path}}/{% endcapture %}
-                    {% capture filePath %}{{page.url}}{% endcapture %}
+                    {% capture filePath %}{{pg.url}}{% endcapture %}
                     {% if filePath contains buildPath %}
-                        <li>
+                    {% capture liClassNested %}{% if page.url == filePath  %}current{% endif %}{% endcapture %}
+                        <li class="{{liClassNested}}">
                             <a href="{{filePath}}"  >
                                 <span>{{ filePath | replace: buildPath, '' | replace: ".html", '' }}</span>
                             </a>
@@ -34,13 +36,12 @@
                     {% include nested.html resource=child pathprefix=buildPath  %}
                 {% endfor %}
             {% endif %}
-
         </ul>
     </li>
 
 {% else %}
     <li class="{{liClass}}">
-        <a href="{{buildPath}}.html" class="hint--bounce hint--right" data-hint="{{include.resource.hover}}">
+        <a href="{{buildPath}}.html" class="" data-hint-bck="{{include.resource.hover}}">
             <span>{{ include.resource.name }}</span>
         </a>
     </li>
