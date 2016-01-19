@@ -3,19 +3,26 @@
 @mixin prery-nav-list($right) {
   margin-left: 5px;
   padding-left: 0;
+  > li.section {
+    > span, > a {
+      font-size: 16px;
+      border-top:2px solid $delight-border;
+      border-bottom:2px solid $delight-border;
+      display: block;
+      width: auto;
+      padding-top: 3px;
+      padding-bottom: 3px;
+    }
+  }
   li {
     font-size: 10pt;
     list-style-type: none;
     margin: 5px 0;
     padding-left: 0;
     &.section {
-      padding-top: 3px;
       > span, > a {
-        font-size: 16px;
         color: $nav_color;
         text-transform: uppercase;
-        border-top:2px solid $delight-border;
-        border-bottom:2px solid $delight-border;
       }
       > ul, > ol {
         li.section {
@@ -26,7 +33,6 @@
             font-size: 13px;
           }
         }
-        padding-bottom: 3px;
       }
     }
     &.current {
