@@ -9,11 +9,15 @@
 {% if include.resource.folder %}
     <li class="{{liClass}} section">
         {% if include.resource.file %}
-            <a href="{{buildPath}}.html" class="" data-hint-bck="{{include.resource.hover}}">
+            <a href="{{buildPath}}.html" class="right"
+               data-tipso="{{include.resource.hover}}"
+               data-tipso-position="right">
                 <span>{{ include.resource.name }}</span>
             </a>
         {% else %}
-            <span class=" " data-hint-bck="{{include.resource.hover}}">{{ include.resource.name }}</span>
+            <span class="right"
+                  data-tipso="{{include.resource.hover}}"
+                  data-tipso-position="right">{{ include.resource.name }}</span>
         {% endif %}
         <ul>
             {% if include.resource.autoparse %}
@@ -22,8 +26,8 @@
                     {% capture buildPath %}{{include.pathprefix}}/{{include.resource.path}}/{% endcapture %}
                     {% capture filePath %}{{pg.url}}{% endcapture %}
                     {% if filePath contains buildPath %}
-                    {% capture liClassNested %}{% if page.url == filePath  %}current{% endif %}{% endcapture %}
-                        <li class="{{liClassNested}}">
+                    {% capture liClassNested %}{% if page.url == filePath  %}{% endif %}{% endcapture %}
+                        <li class="">
                             <a href="{{filePath}}"  >
                                 <span>{{ filePath | replace: buildPath, '' | replace: ".html", '' }}</span>
                             </a>
@@ -41,7 +45,9 @@
 
 {% else %}
     <li class="{{liClass}}">
-        <a href="{{buildPath}}.html" class="" data-hint-bck="{{include.resource.hover}}">
+        <a href="{{buildPath}}.html" class="right"
+           data-tipso="{{include.resource.hover}}"
+           data-tipso-position="right">
             <span>{{ include.resource.name }}</span>
         </a>
     </li>

@@ -1,6 +1,9 @@
 .button {
   background-color: #cfcbe9;
   border: none;
+  height: 50px;
+  display: inline-block;
+  box-sizing: border-box;
   &.success {
     background-color: #81e781;
   }
@@ -11,10 +14,10 @@
     background-color: #7a7a7a;
     cursor: hand;
   }
-  padding: 10px;
+  padding: 2px;
   > img {
-    width: 35px;
-    height: auto;
+    width: auto;
+    height: 100%;
   }
 
 }

@@ -11,38 +11,22 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon128x128.ico">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon192x192.ico">
   <link rel="shortcut icon" type="image/svg" sizes="any" href="/favicon.svg?v=2">
+  <!--
+   Google analytics script. HAS to be placed in the head section, before the /head closing tag.
+   See http://stackoverflow.com/a/13141091/2779871 .
+  -->
   <script>
-    // Google Analytics
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
     ga('create', 'UA-72479720-1', 'auto');
     ga('send', 'pageview');
   </script>
 </head>
 <body>
-  <header id="header">
-    <a href="/" id="logo">
-      <img src="/img/DirtyLab-logo.svg">
-    </a>
-    <ul id="social">
-      {% for media in site.data.social %}
-      <li class="">
-        <a href="{{media.url}}"
-           class=" hint--bounce hint--{{media.direction}} button"
-           target="_blank"
-           data-hint="{{media.hover}}">
-          <img src="/img/site/social/{{media.svg}}" alt="{{media.alt}}" />
-        </a>
-      </li>
 
-      {% endfor %}
-
-    </ul>
-  </header>
-
+  {% include header.html %}
   <main id="main">
 
     {% include nav.html %}
@@ -55,7 +39,7 @@
         {% endcomment %}
 
         {% capture md_content %}{% include {{page.markdown_file}} %}{% endcapture %}
-        {{md_content | markdownify}}
+        {{ md_content |  markdownify }}
       </div>
     </article>
 

@@ -7,7 +7,6 @@
 body {
   font-family: $default_font;
   background-color: $body_background_color;
-
 }
 
 
@@ -43,13 +42,13 @@ table {
 td {
   @extend %table-style;
 }
-.left {
+.text-left {
   text-align: left;
 }
-.right {
+.text-right {
   text-align: right;
 }
-.center {
+.text-center {
   text-align: center;
 }
 .message {

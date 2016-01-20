@@ -8,8 +8,6 @@
       font-size: 16px;
       border-top:2px solid $delight-border;
       border-bottom:2px solid $delight-border;
-      display: block;
-      width: auto;
       padding-top: 3px;
       padding-bottom: 3px;
     }
@@ -34,6 +32,12 @@
           }
         }
       }
+    }
+    a,span {
+      display: block;
+      width: auto;
+      margin-right: 3px;
+      padding-left:1px;
     }
     &.current {
       > a, > span {
