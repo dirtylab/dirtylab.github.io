@@ -26,8 +26,8 @@
                     {% capture buildPath %}{{include.pathprefix}}/{{include.resource.path}}/{% endcapture %}
                     {% capture filePath %}{{pg.url}}{% endcapture %}
                     {% if filePath contains buildPath %}
-                    {% capture liClassNested %}{% if page.url == filePath  %}{% endif %}{% endcapture %}
-                        <li class="">
+                    {% capture liClassNested %}{% if page.url == filePath %}current{% endif %}{% endcapture %}
+                        <li class="{{liClassNested}}">
                             <a href="{{filePath}}"  >
                                 <span>{{ filePath | replace: buildPath, '' | replace: ".html", '' }}</span>
                             </a>
