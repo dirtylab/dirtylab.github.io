@@ -80,9 +80,11 @@
 	    (0, _jquery2.default)("[data-tipso]:not(.tipso-wide)").tipso(_tooltips2.default);
 	    (0, _jquery2.default)("[data-tipso].tipso-wide").tipso(tipsoWideConfig);
 	
-	    // Clic sur le logo
+	    // Clic sur le logo. L'utilisation d'une image à l'interieur d'une balise <a> posait trop
+	    // de problèmes de positionnements. Notamment car l'image n'avait pas de largeur spécifiée (auto),
+	    // donc le conteneur (a) avait une largeur imprévisible, et largement trop grande.
 	    (0, _jquery2.default)("#header").find("> img#logo").on("click", function () {
-	        return window.location.href = "/";
+	        return window.location.href = '/';
 	    });
 	});
 
