@@ -1,7 +1,7 @@
 #nav {
   > .top-responsive-padding {
-    height: $top-height;
-    min-height: $min-height-top;
+    height: $header-height;
+    min-height: $min-header-height;
     width: $nav-width;
   }
   #nav-wrapper > ul,#nav-wrapper  > ol {

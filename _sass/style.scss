@@ -1,13 +1,9 @@
-%table-style {
-  white-space: nowrap;
-  border: 1px solid $light_gray;
-  padding: 5px 10px;
-}
 
 body {
   font-family: $default_font;
   background-color: $body_background_color;
 }
+
 
 
 a {
@@ -69,4 +65,8 @@ td {
     border: 1px solid $error_color;
     background-color: $error_background;
   }
+}
+
+#main-flex-buffer {
+  @include header-sizing;
 }

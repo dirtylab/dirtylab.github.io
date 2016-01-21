@@ -3,7 +3,7 @@ article {
   background-color: white;
   min-width: $nav-width;
   max-width: $content_max_width;
-  margin: $top-height auto 0;
+  margin: 0 auto 0;
   @media(max-width: 1395px) {
     margin-left: 200px;
   }
@@ -52,7 +52,7 @@ article {
           font-weight: 200;
           background-color: $content_background;
           right: 5px;
-          padding: $top-height 10px 0  ;
+          padding: $header-height 10px 0  ;
           bottom:0;
           height: 100vh ;
           max-width: 200px;

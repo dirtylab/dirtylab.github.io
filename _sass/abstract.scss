@@ -1,4 +1,18 @@
+@mixin header-sizing {
+  width: 100%;
+  height: $header-height;
+  min-height: $min-header-height;
+  @media (max-width: $shrunk-header-max-width){
+    height: $min-header-height*2;
+    flex-direction: column;
+  }
+}
 
+%table-style {
+  white-space: nowrap;
+  border: 1px solid $light_gray;
+  padding: 5px 10px;
+}
 
 @mixin prery-nav-list($right) {
   margin-left: 5px;

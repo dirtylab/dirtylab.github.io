@@ -30,8 +30,11 @@ $content_ahref_color: #186e56;
 
 $hint_hover_delay:550ms;
 
-$top-height:13vh;
-$min-height-top:80px;
+$header-height:13vh;
+$min-header-height:80px;
+$shrunk-header-max-width:500px;
+$shrunk-header-height: $min-header-height*2;
+
 $bottom-height:87vh;
 
 //fonts
