@@ -1,115 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.2"
-   width="500"
-   height="180"
-   id="svg2">
-  <defs
-     id="defs4" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-872.36214)"
-     id="layer1">
-    <g
-       transform="translate(15.714286,-9.8298701)"
-       id="g3012">
-      <g
-         transform="translate(0,2.0456333)"
-         id="g3044">
-        <text
-           x="-9.2882156"
-           y="994.87909"
-           id="text2985"
-           xml:space="preserve"
-           style="font-size:145px;font-style:normal;font-weight:100;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-             x="-9.2882156"
-             y="994.87909"
-             id="tspan2987"
-             style="font-size:145px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;fill:#333333;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">D</tspan></text>
-        <text
-           x="0.40513325"
-           y="1046.3616"
-           id="text2989"
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#808080;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-             x="0.40513325"
-             y="1046.3616"
-             id="tspan2991"
-             style="font-size:24px;font-style:normal;font-variant:normal;font-stretch:normal;fill:#999999;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Le laboratoire des </tspan></text>
-        <text
-           x="90.714287"
-           y="992.88013"
-           id="text3028"
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-             x="90.714287"
-             y="992.88013"
-             id="tspan3030"
-             style="font-size:110px;font-style:normal;font-variant:normal;font-stretch:normal;fill:#808080;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">irty</tspan></text>
-      </g>
-      <g
-         transform="translate(-38.571429,-9.278522)"
-         id="g3036">
-        <text
-           x="282.14282"
-           y="1050.0492"
-           id="text3020"
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-             x="282.14282"
-             y="1050.0492"
-             id="tspan3022"
-             style="font-size:145px;fill:#333333">L</tspan></text>
-        <text
-           x="303.57141"
-           y="925.04913"
-           id="text3024"
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-             x="303.57141"
-             y="925.04913"
-             id="tspan3026"
-             style="font-size:24px;font-style:normal;font-variant:normal;font-stretch:normal;fill:#999999;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">savoirs émergents</tspan></text>
-        <text
-           x="358.57141"
-           y="1049.3348"
-           id="text3032"
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-             x="358.57141"
-             y="1049.3348"
-             id="tspan3034"
-             style="font-size:110px;font-style:normal;font-variant:normal;font-stretch:normal;fill:#666666;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">ab</tspan></text>
-      </g>
-      <flowRoot
-         transform="translate(-15.714286,882.19201)"
-         id="flowRoot3052"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3054"><rect
-             width="764.28571"
-             height="415.71429"
-             x="-106.42857"
-             y="-95.714287"
-             id="rect3056" /></flowRegion><flowPara
-           id="flowPara3058"></flowPara></flowRoot>    </g>
-  </g>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 500 180">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(0,-872.36214)">
+<g font-family="Sans" fill="#000000" transform="translate(15.714286,-9.8298701)" font-style="normal">
+<g transform="translate(0,2.0456333)">
+<text style="letter-spacing:0px;word-spacing:0px;" font-weight="100" xml:space="preserve" font-size="145px" line-height="125%" y="994.87909" x="-9.2882156"><tspan font-weight="100" font-size="145px" font-style="normal" font-stretch="normal" font-variant="normal" y="994.87909" x="-9.2882156" font-family="URW Gothic L" fill="#333333">D</tspan></text>
+<text style="color:#808080;letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" line-height="125%" y="1046.3616" x="0.40513325"><tspan font-size="24px" font-style="normal" font-stretch="normal" font-variant="normal" y="1046.3616" x="0.40513325" font-family="URW Gothic L" fill="#999999">Le laboratoire des </tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" line-height="125%" y="992.88013" x="90.714287"><tspan font-size="110px" font-style="normal" font-stretch="normal" font-variant="normal" y="992.88013" x="90.714287" font-family="URW Gothic L" fill="#808080">irty</tspan></text>
+</g>
+<g font-size="40px" transform="translate(-38.571429,-9.278522)" font-weight="normal">
+<text style="letter-spacing:0px;word-spacing:0px;" xml:space="preserve" line-height="125%" y="1050.0492" x="282.14282"><tspan font-size="145px" y="1050.0492" x="282.14282" fill="#333333">L</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;" xml:space="preserve" line-height="125%" y="925.04913" x="303.57141"><tspan font-size="24px" font-style="normal" font-stretch="normal" font-variant="normal" y="925.04913" x="303.57141" font-family="URW Gothic L" fill="#999999">savoirs émergents</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;" xml:space="preserve" line-height="125%" y="1049.3348" x="358.57141"><tspan font-size="110px" font-style="normal" font-stretch="normal" font-variant="normal" y="1049.3348" x="358.57141" font-family="URW Gothic L" fill="#666666">ab</tspan></text>
+</g>
+<flowRoot style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" transform="translate(-15.714286,882.19201)" line-height="125%" font-size="40px"><flowRegion><rect y="-95.7" width="764" x="-106" height="416"/></flowRegion><flowPara/></flowRoot>
+</g>
+</g>
 </svg>
