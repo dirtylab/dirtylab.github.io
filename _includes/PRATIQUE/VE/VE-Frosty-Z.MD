@@ -3,6 +3,7 @@ Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](../SYNTHESE_YOUTUBE.html)
 -
 
+
 Sommaire
 -
 
@@ -169,4 +170,3 @@ Considérations d'ordre général :
 
 * Dans un premier temps, Léo + les développeurs/installeurs des outils/plateformes seraient modos ([modération oligarchique](../../DEFINITIONS.html#a-modération-oligarchique)).
 * Ensuite, si ce besoin est exprimé par la communauté, des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), seraient envisagées ([modération démocratique et/ou méritocratique](../../DEFINITIONS.html#b-modération-méritocratique)).
-
