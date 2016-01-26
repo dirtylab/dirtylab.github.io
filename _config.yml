@@ -1,6 +1,6 @@
 
 baseurl: 
-url: http://dirtylab.github.io/
+url: http://localhost:4000/
 
 # for GitHub Flavored Markdown support
 # requires 'gem install redcarpet'
@@ -10,7 +10,6 @@ redcarpet:
 
 sass:
     sass_dir: _sass
-    style: compressed
 
 # requires 'gem install github-pages' + 'gem install <gemname>' for all gems below
 gems: ["jemoji"]
