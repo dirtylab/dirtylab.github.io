@@ -22,3 +22,8 @@ Pistes
 * [C2 - Quelles sont les attentes des membres de la communauté et qu'est-ce qui les pousse à s'investir dans la collaboration ?](PISTES/C2.html)
 * [C3 - Comment les membres participant à une collaboration reçoivent les nouvelles idées et propositions?](PISTES/C3.html)
 * [C4 - Comment les membres peuvent-ils **modifier** leur comportement pour améliorer la collaboration?](PISTES/C4.html)
+
+## Comparaison entre la plateforme idéale et l'existant
+
+* [D1 - Quelle seraient les différences fondamentales entre cette application idéale et des outils Q&A de type StackExchange?](PISTED/D1.html)
+* [D2 - Qu'est-ce qui distinguerait cette application idéale d'un wiki?](PISTED/D2.html)
