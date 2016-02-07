@@ -41,7 +41,7 @@ II. Espace questions/réponses, vote, sondage
 | [Loomio](https://www.loomio.org/)  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | | Proposé par @Framartin. Possibilité de service en ligne gratuit à étudier. |
 | [LiquidFeedback](http://liquidfeedback.org/)  |    |   | Proposé par @Framartin. Utilisé par le [Parti pirate](http://www.partipirate.fr/LiquidFeedback-217). |
 
-III. Espace d'écriture collaboratif
+III. Espace d'édition collaborative
 -----------------------------------
 
 | Outil  |  Service en ligne   | Projet GitHub | Commentaires |
@@ -50,7 +50,7 @@ III. Espace d'écriture collaboratif
 | GitHub + [prose.io](http://prose.io) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />    | Outil beaucoup plus user friendly que github seul! Proche d'un wiki basé sur git |
 | [Wikia](http://www.wikia.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | [essai](http://fr.dirtylab.wikia.com/) |
 | [Rizzoma](https://rizzoma.com) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | Proposé par @Framartin. |
-
+| [draw.io](https://www.draw.io/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | ? | Espace de création de diagrammes / mind-maps collaboratif, temps-réel |
 
 IV. Espace de t'chat
 --------------------
