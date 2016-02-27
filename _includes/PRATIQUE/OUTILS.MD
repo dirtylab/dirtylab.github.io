@@ -23,7 +23,13 @@ I. Espace de discussion
 | [GitHub](http://github.com/) ([issues](https://github.com/dirtylab/wiki/issues))                     | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | "+1" ZenHub |
 | [Vanilla Open Source](http://vanillaforums.org/)  | | | | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |
 | [Reddit](http://reddit.com/)  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | |  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  |
-A parcourir en détail pour remplir le tableau ci dessus :
+| [Flarum](http://flarum.org/)  | possible | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  |  |
+
+**Commentaires**
+
+* [Flarum](http://flarum.org/) est encore en Beta, mais c'est un genre de [Discourse](http://www.discourse.org) sensiblement plus léger et performant, en PHP/MySQL (donc facile à héberger).
+
+**A parcourir en détail pour remplir le tableau ci dessus :**
 
 * [Top 15 moteurs de forums sur Quertime.com](http://www.quertime.com/article/15-best-online-forum-platforms-software-free-and-paid/)
 * [Top 9 moteurs de forums sur SaveDelete.com](http://savedelete.com/software/best-forum-software-free-and-paid/14592/)
@@ -51,6 +57,8 @@ III. Espace d'édition collaborative
 | [Wikia](http://www.wikia.com/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | [essai](http://fr.dirtylab.wikia.com/) |
 | [Rizzoma](https://rizzoma.com) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" />  |               | Proposé par @Framartin. |
 | [draw.io](https://www.draw.io/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> | ? | Espace de création de diagrammes / mind-maps collaboratif, temps-réel |
+| [Coggle](https://coggle.it/) | <img class="emoji" title=":white_check_mark:" alt=":white_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png" height="20" width="20" align="absmiddle" /> |  | Espace de création de mind-maps collaboratif, temps-réel |
+
 
 IV. Espace de t'chat
 --------------------
